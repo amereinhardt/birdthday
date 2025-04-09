@@ -1,0 +1,56 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:aliceblue;
+    margin-bottom: 35px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+li {
+    margin: 0;
+    padding: 36px 0 36px 84px;
+    list-style: none;
+    background-image: url("/resources/images/heart.png");
+    background-repeat: no-repeat;
+    background-position: 350px;
+    background-size: 20px;
+}
+
+.banner {
+    background-color:darkolivegreen;
+    color:antiquewhite;
+    margin-top: 9px;
+    padding: 100px 0;
+    left: 9px;
+    right: 9px;
+}
+
+#birds {
+    width: 600px;
+}
+
+#secretary {
+    color:saddlebrown;
+    font-size: 60px;
+}
+
+.bold {
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+footer {
+    position: sticky;
+    height: 35px;
+    bottom: 0px;
+    left: 9px;
+    right: 9px;
+    margin-bottom: 0px;
+    background-color:darkolivegreen;
+    color:aliceblue;
+    font-size: small;
+    padding: 40px;
+}
